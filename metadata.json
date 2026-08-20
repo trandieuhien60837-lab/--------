@@ -1,0 +1,6 @@
+{
+  "name": "营销联盟管理后台",
+  "description": "专业级营销中心联盟活动管理系统PC端高保真原型，支持跨商户联盟活动、新人红包体系及会员红包全链路闭环（活动配置、数据监控、商户补贴结算管理）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
